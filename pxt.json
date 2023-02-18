@@ -11,6 +11,7 @@
     "files": [
         "README.md",
         "main.ts",
+        "_locales/ru-ru/SuperBitV2-strings.json",
         "_locales/zh-cn/SuperBitV2-strings.json",
         "_locales/zh-tw/SuperBitV2-strings.json"
     ],
