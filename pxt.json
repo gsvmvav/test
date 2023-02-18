@@ -1,7 +1,7 @@
 {
-    "name": "SuperBitV2",
+    "name": "Superbit",
     "version": "1.0.0",
-    "description": "Extension for YahBoom SuperBitV2",
+    "description": "Дополнение SuperBit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,9 +11,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/ru-ru/SuperBitV2-strings.json",
-        "_locales/zh-cn/SuperBitV2-strings.json",
-        "_locales/zh-tw/SuperBitV2-strings.json"
+        "_locales/ru-ru/SuperBitV2-strings.json"
     ],
     "testFiles": [
         "test.ts"
